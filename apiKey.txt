@@ -1,0 +1,3 @@
+apiKey: 0d5305da-f9a2-4f45-8296-835ac42315a1
+
+bearerToken: a7b3bba7-8fad-47b8-a715-e6ea49bf4631
